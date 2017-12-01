@@ -1,0 +1,14 @@
+body{
+    font-family: "Charter";
+    font-size: 32px;
+    vertical-align: top;
+    background: salmon;
+    text-align: center;
+    color: white;
+}
+
+button{
+    -webkit-text-fill-color: black;
+    width: 30px;
+}
+
